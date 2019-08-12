@@ -16,8 +16,8 @@ We need to have user credentials for positive test
   Scenario: Test user login with invalid username and password
   When user enter username and password
   |username|passwords|
-  |kreetan|12324|
-  |kreetanshu@gmail.com|test@1224|
+  |reetan|12324|
+  |test@gmail.com|test@1224|
   Then user can login with credentials
   Then user cannot login with credentials
   
