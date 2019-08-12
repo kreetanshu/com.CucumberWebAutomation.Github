@@ -17,7 +17,7 @@ We need to have user credentials for positive test
   When user enter username and password
   |username|passwords|
   |kreetan|12324|
-  |kreetanshu@gmail.com|Rails@1234|
+  |kreetanshu@gmail.com|test@1224|
   Then user can login with credentials
   Then user cannot login with credentials
   
